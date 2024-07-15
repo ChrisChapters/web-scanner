@@ -1,0 +1,2 @@
+[console_scripts]
+web-scanner = web_scanner.main:main

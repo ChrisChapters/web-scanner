@@ -1,0 +1,11 @@
+LICENSE
+setup.py
+web_scanner/__init__.py
+web_scanner/main.py
+web_scanner/scanner.py
+web_scanner.egg-info/PKG-INFO
+web_scanner.egg-info/SOURCES.txt
+web_scanner.egg-info/dependency_links.txt
+web_scanner.egg-info/entry_points.txt
+web_scanner.egg-info/requires.txt
+web_scanner.egg-info/top_level.txt
