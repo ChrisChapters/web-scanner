@@ -16,16 +16,16 @@ Web Scanner is a Python tool designed for detecting SQL injection vulnerabilitie
 ## Usage
 1. Clone the repository:
    
-   git clone https://github.com/ChrisChapters/web-scanner.git
+2.   git clone https://github.com/ChrisChapters/web-scanner.git
    
-   cd web-scanner
+3.   cd web-scanner
 
-   python -m venv venv
+4.   python -m venv venv
 
-   source venv\bin\activate\
+5.   source venv\bin\activate\
 
-   pip install .
+6.   pip install .
 
-   web-scanner "website url"  //eg:web-scanner http://testphp.vulnweb.com/
+7.   web-scanner "website url"  //eg:web-scanner http://testphp.vulnweb.com/
 
    
